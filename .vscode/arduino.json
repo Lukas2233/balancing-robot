@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:nano",
+    "port": "COM7",
+    "sketch": "blink\\blink.ino",
+    "configuration": "cpu=atmega328",
+    "output": "build"
+}
